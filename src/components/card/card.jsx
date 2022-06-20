@@ -31,7 +31,7 @@ function Card({ props }) {
 						</div>
 
 						<div className="card__image">
-							<img src="/img/Photo.png" alt="" className="cat-image" />
+							<img src="img/Photo.png" alt="" className="cat-image" />
 						</div>
 
 						<div className="card__mark">
