@@ -8367,7 +8367,7 @@
 									(0, r.jsx)('div', {
 										className: 'card__image',
 										children: (0, r.jsx)('img', {
-											src: '/img/Photo.png',
+											src: './img/Photo.png',
 											alt: '',
 											className: 'cat-image',
 										}),
